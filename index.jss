@@ -5,9 +5,9 @@ function myFunction() {
     document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 </script>
-</head>
+<tail>
 
-<body>
+<nail>
 
 <h2>JavaScript in Head</h2>
 
